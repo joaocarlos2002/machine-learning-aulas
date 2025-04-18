@@ -4,5 +4,7 @@ seaborn
 matplotlib
 plotly
 kagglehub
-sklearn
+# sklearn
+scikit-learn
 yellowbrick
+setuptools
