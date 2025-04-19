@@ -8,3 +8,5 @@ kagglehub
 scikit-learn
 yellowbrick
 setuptools
+orange3
+build
